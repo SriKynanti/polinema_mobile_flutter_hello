@@ -98,9 +98,8 @@ class _MyHomePageState extends State<MyHomePage> {
             const Text(
               'Sri Kynanti',
             ),
-            Text(
+            const Text(
               '1941720063',
-              style: Theme.of(context).textTheme.headline4,
             ),
           ],
         ),
